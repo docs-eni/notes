@@ -2,6 +2,8 @@
 
 ## SOMMAIRE
 
-### Cours
+### Notes
 
-[**01- TSSR - Outils Collaboratif**](./Cours/01-%20TSSR%20-%20Outils%20Collaboratif.md)
+#### Cours
+
+[**01- TSSR - Outils Collaboratif**](./notes/Cours/01-%20TSSR%20-%20Outils%20Collaboratif.md)
