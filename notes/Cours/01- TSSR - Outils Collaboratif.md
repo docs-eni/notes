@@ -2,6 +2,10 @@
 
 [Retour Sommaire](../README.md)
 
+<details>
+
+<summary> **Vocabulaire** </summary>
+
 ## Vocabulaire
 
 - **S**oftaware **a**s **a** **S**ervice **(SaaS)** : (Logiciel en tant que service), est un modèle d'exploitation commerciale des logiciels dans lequel ceux-ci sont installé sur des serveurs distants plutôt que sur la machine utilisateur. Les clients paye généralement un abonnement.
@@ -11,6 +15,8 @@
 - [**Cryptage vs Chiffrage**](https://www.primx.eu/fr/abc-chiffrement/chiffrement-vs-cryptage-quelles-differences/#:~:text=Le%20terme%20de%20cryptage%20et,revient%20%C3%A0%20d%C3%A9coder%20sans%20cl%C3%A9.)
 - **DG** : Directeur Général
 - [**Code HTTP**](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
+
+</details>
 
 ## Objectifs
 
